@@ -1,2 +1,2 @@
 # reloadcss
-Reload files CSS without refresh the page.
+Reload CSS files without refreshing the page.
